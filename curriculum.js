@@ -7,9 +7,9 @@
 */
 var PersonalInfo = {
     name:        'Rui Barbosa',
-    location:    'Rua Chaimite - 4435 - Gondomar',
-    phone:       '963748225',
-    email:       'rpabarbosa@gmail.com',
+    location:    '(please ask me)',
+    phone:       '(please ask me)',
+    email:       '(please ask me)',
     description: 'Software Engineer',
 };
 
