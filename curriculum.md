@@ -1,9 +1,9 @@
 # PERSONAL INFORMATION
 
 **Name**: Rui Barbosa  
-**Location**: Rua Chaimite - 4435 - Gondomar  
-**Phone**: 963748225  
-**Email**: rpabarbosa@gmail.com  
+**Location**: (please ask me)  
+**Phone**: (please ask me)    
+**Email**: (please ask me)   
 **Description**: Software Engineer
 
 # PROFESSIONAL EXPERIENCE
